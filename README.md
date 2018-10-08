@@ -1,6 +1,10 @@
 # Wesleys_AutoSave
 This is a Auto Hot Key script that saves a copy of your premiere pro project to an auto-save folder.
 
+## rd-20181009
+Realease Oct 09, 2018.
+Added comments to each command describing what they do.
+
 ## rd-20181008
 This is the first working version of the script. In it's current state it is very specific to how my workspace is set up.
 
