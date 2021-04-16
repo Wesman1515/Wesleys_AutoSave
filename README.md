@@ -2,6 +2,10 @@
 This is a Auto Hot Key script that saves a copy of your premiere pro project to an auto-save folder.
 
 ## rd-20181009
+Realease April 16, 2021.
+Added function to select the autosave folder.
+
+## rd-20210415
 Realease Oct 09, 2018.
 Added comments to each command describing what they do.
 
